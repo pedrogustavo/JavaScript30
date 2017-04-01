@@ -3,7 +3,7 @@ Participating in 30 Day Vanilla JS Challenges by @wesbos
 
 ## To do
 
-- [ ] Day 01 - JavaScript Drum Kit
+- [x] Day 01 - JavaScript Drum Kit
 - [ ] Day 02
 - [ ] Day 03
 - [ ] Day 04
