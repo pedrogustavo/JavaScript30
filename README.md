@@ -5,7 +5,7 @@ Participating in 30 Day Vanilla JS Challenges by @wesbos
 
 - [x] Day 01 - JavaScript Drum Kit
 - [x] Day 02 - JS and CSS Clock
-- [ ] Day 03
+- [x] Day 03 - Playing with CSS Variables and JS
 - [ ] Day 04
 - [ ] Day 05
 - [ ] Day 06
