@@ -8,7 +8,7 @@ Participating in 30 Day Vanilla JS Challenges by @wesbos
 - [x] Day 03 - Playing with CSS Variables and JS
 - [x] Day 04 - Array Cardio Day 1
 - [x] Day 05 - Flex Panels Image Gallery
-- [ ] Day 06
+- [x] Day 06 - Ajax Type Ahead
 - [ ] Day 07
 - [ ] Day 08
 - [ ] Day 09
