@@ -9,7 +9,7 @@ Participating in 30 Day Vanilla JS Challenges by @wesbos
 - [x] Day 04 - Array Cardio Day 1
 - [x] Day 05 - Flex Panels Image Gallery
 - [x] Day 06 - Ajax Type Ahead
-- [ ] Day 07
+- [x] Day 07 - Array Cardio Day 2
 - [ ] Day 08
 - [ ] Day 09
 - [ ] Day 10
