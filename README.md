@@ -10,6 +10,11 @@ Participating in 30 Day Vanilla JS Challenges by @wesbos
 - [x] Day 05 - Flex Panels Image Gallery
 - [x] Day 06 - Ajax Type Ahead
 - [x] Day 07 - Array Cardio Day 2
-- [ ] Day 08
-- [ ] Day 09
+- [x] Day 08 - Fun with HTML5 Canvas
+- [x] Day 09 - Dev Tools Domination
 - [ ] Day 10
+- [ ] Day 11
+- [ ] Day 12
+- [ ] Day 13
+- [ ] Day 14
+- [ ] Day 15
