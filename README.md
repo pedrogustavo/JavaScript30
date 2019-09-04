@@ -12,8 +12,8 @@ Participating in 30 Day Vanilla JS Challenges by @wesbos
 - [x] Day 07 - Array Cardio Day 2
 - [x] Day 08 - Fun with HTML5 Canvas
 - [x] Day 09 - Dev Tools Domination
-- [ ] Day 10
-- [ ] Day 11
+- [x] Day 10 - Hold Shift and Check Checkboxes
+- [x] Day 11 - Custom Video Player
 - [ ] Day 12
 - [ ] Day 13
 - [ ] Day 14
