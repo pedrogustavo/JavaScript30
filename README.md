@@ -14,7 +14,13 @@ Participating in 30 Day Vanilla JS Challenges by @wesbos
 - [x] Day 09 - Dev Tools Domination
 - [x] Day 10 - Hold Shift and Check Checkboxes
 - [x] Day 11 - Custom Video Player
-- [ ] Day 12
+- [x] Day 12 - Key Sequence Detection
 - [ ] Day 13
 - [ ] Day 14
 - [ ] Day 15
+- [ ] Day 16
+- [ ] Day 17
+- [ ] Day 18
+- [ ] Day 19
+- [ ] Day 20
+- [ ] Day 21
