@@ -15,7 +15,7 @@ Participating in 30 Day Vanilla JS Challenges by @wesbos
 - [x] Day 10 - Hold Shift and Check Checkboxes
 - [x] Day 11 - Custom Video Player
 - [x] Day 12 - Key Sequence Detection
-- [ ] Day 13
+- [x] Day 13 - Slide in on Scroll
 - [ ] Day 14
 - [ ] Day 15
 - [ ] Day 16
