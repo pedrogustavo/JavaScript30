@@ -16,7 +16,7 @@ Participating in 30 Day Vanilla JS Challenges by @wesbos
 - [x] Day 11 - Custom Video Player
 - [x] Day 12 - Key Sequence Detection
 - [x] Day 13 - Slide in on Scroll
-- [ ] Day 14
+- [x] Day 14 - JavaScript References VS Copying
 - [ ] Day 15
 - [ ] Day 16
 - [ ] Day 17
