@@ -17,10 +17,19 @@ Participating in 30 Day Vanilla JS Challenges by @wesbos
 - [x] Day 12 - Key Sequence Detection
 - [x] Day 13 - Slide in on Scroll
 - [x] Day 14 - JavaScript References VS Copying
-- [ ] Day 15
+- [x] Day 15 - LocalStorage and Event Delegation
 - [ ] Day 16
 - [ ] Day 17
 - [ ] Day 18
 - [ ] Day 19
 - [ ] Day 20
 - [ ] Day 21
+- [ ] Day 22
+- [ ] Day 23
+- [ ] Day 24
+- [ ] Day 25
+- [ ] Day 26
+- [ ] Day 27
+- [ ] Day 28
+- [ ] Day 29
+- [ ] Day 30
