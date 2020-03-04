@@ -18,7 +18,7 @@ Participating in 30 Day Vanilla JS Challenges by @wesbos
 - [x] Day 13 - Slide in on Scroll
 - [x] Day 14 - JavaScript References VS Copying
 - [x] Day 15 - LocalStorage and Event Delegation
-- [ ] Day 16
+- [x] Day 16 - CSS Text Shadow Mouse Move Effect
 - [ ] Day 17
 - [ ] Day 18
 - [ ] Day 19
