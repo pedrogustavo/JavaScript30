@@ -19,7 +19,7 @@ Participating in 30 Day Vanilla JS Challenges by @wesbos
 - [x] Day 14 - JavaScript References VS Copying
 - [x] Day 15 - LocalStorage and Event Delegation
 - [x] Day 16 - CSS Text Shadow Mouse Move Effect
-- [ ] Day 17
+- [x] Day 17 - Sort Without Articles
 - [ ] Day 18
 - [ ] Day 19
 - [ ] Day 20
