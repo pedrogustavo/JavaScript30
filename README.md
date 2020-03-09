@@ -20,7 +20,7 @@ Participating in 30 Day Vanilla JS Challenges by @wesbos
 - [x] Day 15 - LocalStorage and Event Delegation
 - [x] Day 16 - CSS Text Shadow Mouse Move Effect
 - [x] Day 17 - Sort Without Articles
-- [ ] Day 18
+- [x] Day 18 - Tally String Times with Reduce
 - [ ] Day 19
 - [ ] Day 20
 - [ ] Day 21
